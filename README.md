@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Ashutosh Singh(redwin-0000)
+### A Software Engineering Student from Mau, Uttar Pradesh.
 -    currently i am pursuing my Bachelor's degree in Computer Science
 - 🌱 I’m currently exploring Web development.
 - 💞️ My interests are Android app development,Web app development.
