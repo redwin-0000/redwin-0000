@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashutosh Singh(redwin-0000)
 - 🌱 I’m currently exploring Web development.
-- 💞️ My interests are Android app development,Web app development,linux.
+- 💞️ My interests are Android app development,Web app development.
 - 📫 Mail me redwin125896@gmail.com
 
 
