@@ -4,11 +4,9 @@
 - 🌱 I’m currently exploring Web development.
 - 💞️ My interests are Web app development, Android app development.
 - 📫 Mail me redwin125896@gmail.com
-- ![erik-mclean-DGcE0681Lzg-unsplash](https://user-images.githubusercontent.com/109889191/198764453-546ac06b-bf43-452f-ae00-3778dc1765a1.jpg)
 
-![Uploading erik-mclean-DGcE0681Lzg-unsplash.jpg…]()
+![erik-mclean-DGcE0681Lzg-unsplash (1)](https://user-images.githubusercontent.com/109889191/198765872-68f9df3a-4856-48f5-8469-e43daf5ffb63.jpg)
 
-<!-- ![iron man](https://user-images.githubusercontent.com/109889191/187352432-b2623603-4fdd-40ea-8306-f2c816d43ea5.jpg) -->
 
 ## Languages and Tools:
 JavaScript,
