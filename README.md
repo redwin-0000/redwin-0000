@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ashutosh Singh(redwin-0000)
 ### A Software Engineering Student from Mau, U.P, India.
--    Working At ARS and Softication.
+-    Working At ARS and Softication as a web Developer.
 - 🌱 I’m currently exploring Web development and Skills.
 - 💞️ My interests are Web app development, Android app development.
 - 📫 Mail me redwin125896@gmail.com
