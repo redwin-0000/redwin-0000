@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Ashutosh Singh(redwin-0000)
 ### A Software Engineering Student from Mau, U.P, India.
--    Working At ARS and Softication as a web Developer.
+-    Working At Actberry as a web Developer and Digital Marketing.
 - 🌱 I’m currently exploring Web development and Skills.
-- 💞️ My interests are Web app development, Android app development.
+- 💞️ interest : - Web Development.
 - 📫 Mail me redwin125896@gmail.com
 
 ## Languages and Tools:
 JavaScript,
-react-native,
+WordPress,
+Digital Marketing,
 react js,
 Next j,
 HTML,
-CSS,
 Tailwind CSS
