@@ -7,9 +7,6 @@
 
 ## Languages and Tools:
 JavaScript,
-WordPress,
-Digital Marketing,
 react js,
-Next j,
 HTML,
 Tailwind CSS
