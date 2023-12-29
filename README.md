@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ashutosh Singh(redwin-0000)
 ### A Software Engineering Student from Mau, U.P, India.
-- 🌱 I’m currently exploring Web development and Skills.
+- 🌱 I’m currently exploring Web Development and App Development Skills.
 - 💞️ interest: - Web Development and App Development
 - 📫 Mail me redwin125896@gmail.com
 
