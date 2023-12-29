@@ -5,8 +5,8 @@
 - 📫 Mail me redwin125896@gmail.com
 
 ## Languages and Tools:
-#JavaScript,
-#React js,
-#React-Native,
-#HTML,
-3Tailwind CSS
+JavaScript,
+React js,
+React-Native,
+HTML,
+Tailwind CSS
