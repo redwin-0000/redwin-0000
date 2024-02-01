@@ -1,12 +1,13 @@
-# 👋 Hi, I’m Ashutosh Singh(redwin-0000)
-### A Software Engineering Student from Mau, U.P, India.
-- 🌱 I’m currently exploring Web Development and App Development Skills.
+# 👋 Hi, I’m Ashutosh Singh.
+- 🌱I'm a React-Native Developer.
 - 💞️ interest: - Web Development and App Development
 - 📫 Mail me redwin125896@gmail.com
 
 ## Languages and Tools:
 JavaScript,
-React js,
 React-Native,
+React js,
+firebase,
+Redux Toolkit
 HTML,
-Tailwind CSS
+Tailwind CSS,
