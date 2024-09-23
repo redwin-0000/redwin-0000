@@ -11,3 +11,4 @@ firebase,
 Redux Toolkit
 HTML,
 Tailwind CSS,
+TypeScript
